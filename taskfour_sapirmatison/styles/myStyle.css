@@ -1,0 +1,105 @@
+body 
+{
+    direction:rtl;
+    background-image:url(../images/online3.png);
+    background-repeat:no-repeat;
+  position:absolute;
+  background-size:100%;
+       
+}
+
+#container
+{
+    width:960px;
+    margin:0 auto;
+}
+section
+{
+    font-size:38px;
+   color:#ffffff;
+ font-family:Calibri;
+  font-weight:bold;
+
+}
+span
+{
+   font-size:60px;
+   color:#ffffff;
+    font-family:Calibri;
+    font-weight:bold;
+ 
+}
+h1
+{
+    font-size:56px;
+    font-family:Calibri;
+    color: #eca828;
+    text-align:center;
+    margin-top:50px;
+}
+h2
+{
+    font-size:48px;
+    font-family:Calibri;
+    color: #d3a851;
+    text-align:center;
+    
+}
+
+p
+{
+    font-size:34px;
+    font-family:Calibri;
+    color: #7f1919;
+    text-align:center;
+ 
+}
+
+label
+{
+    margin-top:60px;
+    font-family:Calibri;
+}
+
+input[type=text]
+{
+    display:block;
+    margin-bottom:15px;
+    border: 2px solid #7f1919;
+    border-radius: 4px;
+}
+
+#firstraw
+{
+    margin-right:240px;
+    font-family:Calibri;
+}
+
+#secondraw
+{
+    float:left;
+    margin-left:240px;
+    margin-top:-138px;
+    font-family:Calibri;
+}
+
+#frame
+{
+    border:2px solid #d3a851;
+    margin-top:20px;
+    margin-right:70px;
+    margin-left:70px;
+ 
+}
+
+a
+{
+    font-family:Calibri;
+    font-size:20px;
+    font-weight:bold;
+}
+
+a:active
+{
+    color:#eca828;
+}
